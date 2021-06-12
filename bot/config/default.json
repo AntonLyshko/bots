@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:INOobnSOi4u5vEcE@besttransfer-xkk6n.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretTocken"
+}
